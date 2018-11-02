@@ -1,2 +1,2 @@
 # Alexa-Fact-Skill
-It is a basic Alexa fact skill to known end to end process 
+It is a basic Alexa fact skill to know end to end process 
